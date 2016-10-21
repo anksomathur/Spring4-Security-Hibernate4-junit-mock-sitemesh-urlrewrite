@@ -1,0 +1,5 @@
+com\apsutil\dao\impl\UserDaoImplTest.class
+com\apsutil\webapp\controller\SimpleControllerTest$TestConfiguration.class
+com\apsutil\webapp\controller\SimpleControllerStandaloneSetupTest.class
+com\apsutil\webapp\controller\SimpleControllerTest.class
+com\apsutil\dao\impl\HibernateTestConfiguration.class
