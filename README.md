@@ -2,7 +2,7 @@
 This project contains apring 4 +hibernate 4+mysql+sitemesh+url rewriting+Junit/Mock Test.
 
 
-Createa Data Base:
+Create Data Base: apsutil
 
 CREATE TABLE `users` (
   `userid` int(11) NOT NULL AUTO_INCREMENT,
