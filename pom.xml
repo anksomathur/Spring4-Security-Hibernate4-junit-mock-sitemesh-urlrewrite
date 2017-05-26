@@ -157,7 +157,7 @@
 		        <jdbc.artifactId>mysql-connector-java</jdbc.artifactId>
 		        <jdbc.version>${mysql.connector.version}</jdbc.version>
 		        <jdbc.driverClassName>com.mysql.jdbc.Driver</jdbc.driverClassName>
-		        <jdbc.url>jdbc:mysql://localhost:3306/${db.name}?zeroDateTimeBehavior=convertToNull&amp;amp;autoReconnect=true</jdbc.url>
+		        <jdbc.url>jdbc:mysql://192.168.99.100:3306/${db.name}?zeroDateTimeBehavior=convertToNull&amp;amp;autoReconnect=true</jdbc.url>
 		        <jdbc.username>root</jdbc.username>
 		        <jdbc.password>root</jdbc.password>
             </properties>
