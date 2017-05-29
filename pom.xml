@@ -159,7 +159,7 @@
 		        <jdbc.driverClassName>com.mysql.jdbc.Driver</jdbc.driverClassName>
 		        <jdbc.url>jdbc:mysql://192.168.99.100:3306/${db.name}?zeroDateTimeBehavior=convertToNull&amp;amp;autoReconnect=true</jdbc.url>
 		        <jdbc.username>root</jdbc.username>
-		        <jdbc.password>root</jdbc.password>
+		        <jdbc.password>sqlr00t</jdbc.password>
             </properties>
         </profile>
         </profiles>
